@@ -15,4 +15,4 @@ I developed this project to help Electrical Engineering students to get familiar
 
 Manual folder contains an user guide, in portuguese and english, to help you install and explore this simulator.
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=E2pwkb2tiyY "Everything Is AWESOME")
+[![Everything Is AWESOME](https://github.com/joaocp98662/OscilloscopeSimulator/blob/main/preview.png)](https://www.youtube.com/watch?v=E2pwkb2tiyY "Everything Is AWESOME")

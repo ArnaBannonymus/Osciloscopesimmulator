@@ -16,5 +16,4 @@ I developed this project to help Electrical Engineering students to get familiar
 Manual folder contains an user guide, in portuguese and english, to help you install and explore this simulator.
 
 For a preview of the simulator running check the following link
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-https://www.youtube.com/watch?v=E2pwkb2tiyY
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=E2pwkb2tiyY)

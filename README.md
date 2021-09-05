@@ -11,4 +11,9 @@ This Simulator has the ability to capture data from a bench Oscilloscope (GW Ins
 
 You can save all your waveforms, displayed on the simulator screen, on your computer in JPEG and PNG formats. You can also save data in .csv and .txt files.
 
-I developed this project to help Electrical Engineering students to get familiar with a digital oscilloscope, using an user interface identical to a real bench digital oscilloscope, making it more appealing. This oscilloscope simulator is the perfect tool for all the students that need to get used to an oscilloscope and use it anywhere. 
+I developed this project to help Electrical Engineering students to get familiar with a digital oscilloscope, using an user interface identical to a real bench digital oscilloscope, making it more appealing. This oscilloscope simulator is the perfect tool for all the students that need to get used to an oscilloscope and use it anywhere.
+
+Manual folder contains an user guide, in portuguese and english, to help you install and explore this simulator.
+
+For a preview of the simulator running check the following link
+https://www.youtube.com/watch?v=E2pwkb2tiyY

@@ -1,0 +1,62 @@
+E:\WORK\C#\proj osciloscopio\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\proj osciloscopio\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\proj osciloscopio\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\WORK\C#\proj osciloscopio\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\WORK\C#\proj osciloscopio\ClassLibrary1\obj\Debug\Knobs.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\ClassLibrary1\obj\Debug\Knobs.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\WORK\C#\Projecto Osciloscopio\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\Projecto Osciloscopio\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\Projecto Osciloscopio\ClassLibrary1\obj\Debug\Knobs.csprojResolveAssemblyReference.cache
+E:\WORK\C#\Projecto Osciloscopio\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\WORK\C#\Projecto Osciloscopio\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\ClassLibrary1\obj\Debug\Knobs.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\ClassLibrary1\obj\Debug\Knobs.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\ClassLibrary1\obj\Debug\Knobs.csprojResolveAssemblyReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\ClassLibrary1\obj\Debug\Knobs.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\ClassLibrary1\obj\Debug\Knobs.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\ClassLibrary1\obj\Debug\Knobs.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\ClassLibrary1\obj\Debug\Knobs.csprojResolveAssemblyReference.cache

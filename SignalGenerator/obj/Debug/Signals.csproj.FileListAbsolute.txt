@@ -1,0 +1,112 @@
+E:\WORK\C#\proj osciloscopio\SignalGenerator\bin\Debug\Signals.dll
+E:\WORK\C#\proj osciloscopio\SignalGenerator\bin\Debug\Signals.pdb
+E:\WORK\C#\proj osciloscopio\SignalGenerator\obj\Debug\Signals.dll
+E:\WORK\C#\proj osciloscopio\SignalGenerator\obj\Debug\Signals.pdb
+E:\WORK\C#\proj osciloscopio\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\SignalGenerator\obj\Debug\Signals.pdb
+E:\WORK\C#\Projecto Osciloscopio\SignalGenerator\bin\Debug\Signals.dll
+E:\WORK\C#\Projecto Osciloscopio\SignalGenerator\bin\Debug\Signals.pdb
+E:\WORK\C#\Projecto Osciloscopio\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+E:\WORK\C#\Projecto Osciloscopio\SignalGenerator\obj\Debug\Signals.dll
+E:\WORK\C#\Projecto Osciloscopio\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\SignalGenerator\obj\Debug\Signals.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\SignalGenerator\obj\Debug\Signals.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\SignalGenerator\obj\Debug\Signals.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\SignalGenerator\bin\Debug\Signals.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\SignalGenerator\obj\Debug\Signals.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\SignalGenerator\bin\Debug\Signals.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\SignalGenerator\bin\Debug\Signals.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\SignalGenerator\obj\Debug\Signals.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\SignalGenerator\obj\Debug\Signals.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\SignalGenerator\bin\Debug\Signals.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\SignalGenerator\bin\Debug\Signals.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\SignalGenerator\obj\Debug\Signals.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\SignalGenerator\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\SignalGenerator\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\SignalGenerator\obj\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\SignalGenerator\obj\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\SignalGenerator\obj\Debug\Signals.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\SignalGenerator\bin\Release\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\SignalGenerator\obj\Release\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\SignalGenerator\obj\Release\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\SignalGenerator\bin\Release\Signals.dll
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\SignalGenerator\obj\Release\Signals.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\SignalGenerator\obj\Release\Signals.dll

@@ -1,0 +1,4 @@
+E:\WORK\C#\proj osciloscopio\Knob\bin\Debug\Knob.dll
+E:\WORK\C#\proj osciloscopio\Knob\bin\Debug\Knob.pdb
+E:\WORK\C#\proj osciloscopio\Knob\obj\x86\Debug\Knob.dll
+E:\WORK\C#\proj osciloscopio\Knob\obj\x86\Debug\Knob.pdb

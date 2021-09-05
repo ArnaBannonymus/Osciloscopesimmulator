@@ -1,0 +1,4 @@
+E:\WORK\C#\proj osciloscopio\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\proj osciloscopio\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\proj osciloscopio\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\WORK\C#\proj osciloscopio\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

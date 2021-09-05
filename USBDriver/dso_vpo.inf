@@ -1,0 +1,160 @@
+;------------------------------------------------------------------------------
+; Comunication Device Class driver (CDC) INF FILE
+; (C)2010 Copyright DSO
+;------------------------------------------------------------------------------
+
+[Version]
+Signature="$Windows NT$"
+Class=Ports
+ClassGuid={4D36E978-E325-11CE-BFC1-08002BE10318}
+Provider=%MANUFACTURER%
+LayoutFile=layout.inf
+CatalogFile=%FILENAME%.cat
+
+DriverVer= 06/03/2014, 1.08.0
+
+[Manufacturer]
+%MANUFACTURER%=DeviceList,NTamd64
+
+[DestinationDirs]
+DefaultDestDir=12
+
+
+;------------------------------------------------------------------------------
+;              Windows 2000/XP/Vista/7/8 x86 Support
+;------------------------------------------------------------------------------
+[DriverInstall.nt]
+include=mdmcpq.inf
+;CopyFiles=DriverCopyFiles.nt
+CopyFiles = FakeModemCopyFileSection
+AddReg=DriverInstall.nt.AddReg
+
+[DriverInstall.nt.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,usbser.sys
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[DriverInstall.nt.Services]
+AddService=usbser, 0x00000002, DriverService.nt
+
+[DriverService.nt]
+DisplayName=%SERVICE%
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%12%\usbser.sys
+
+;------------------------------------------------------------------------------
+;              Windows XP/Vista/7/8 x64 Support
+;------------------------------------------------------------------------------
+
+[DriverInstall.NTamd64]
+include=mdmcpq.inf
+;CopyFiles=DriverCopyFiles.NTamd64
+CopyFiles = FakeModemCopyFileSection
+AddReg=DriverInstall.NTamd64.AddReg
+
+[DriverInstall.NTamd64.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,usbser.sys
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[DriverInstall.NTamd64.Services]
+AddService=usbser, 0x00000002, DriverService.NTamd64
+
+[DriverService.NTamd64]
+DisplayName=%SERVICE%
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%12%\usbser.sys
+
+
+;------------------------------------------------------------------------------
+;            VID/PID Settings
+;------------------------------------------------------------------------------
+[SourceDisksFiles]
+[SourceDisksNames]
+[DeviceList]
+%DESCRIPTION1%=DriverInstall, USB\VID_0558&PID_1009
+%DESCRIPTION1%=DriverInstall, USB\VID_0558&PID_100A
+%DESCRIPTION1%=DriverInstall, USB\VID_0558&PID_2009
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0006
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0005
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0013
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0014
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0017
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0018
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0019
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_001E
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_001F
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0020
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0021
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0022
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0023
+%DESCRIPTION3%=DriverInstall, USB\VID_2184&PID_0024
+%DESCRIPTION3%=DriverInstall, USB\VID_2184&PID_0025
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0026
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0027
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0028
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0029
+%DESCRIPTION1%=DriverInstall, USB\VID_0D4A&PID_003D
+%DESCRIPTION1%=DriverInstall, USB\VID_0D4A&PID_003E
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_003A
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_003F
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0040
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0041
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0042
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0043
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0044
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0045
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0046
+
+[DeviceList.NTamd64]
+%DESCRIPTION1%=DriverInstall, USB\VID_0558&PID_1009
+%DESCRIPTION1%=DriverInstall, USB\VID_0558&PID_100A
+%DESCRIPTION1%=DriverInstall, USB\VID_0558&PID_2009
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0006
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0005
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0013
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0014
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0017
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0018
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0019
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_001E
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_001F
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0020
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0021
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0022
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_0023
+%DESCRIPTION3%=DriverInstall, USB\VID_2184&PID_0024
+%DESCRIPTION3%=DriverInstall, USB\VID_2184&PID_0025
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0026
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0027
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0028
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0029
+%DESCRIPTION1%=DriverInstall, USB\VID_0D4A&PID_003D
+%DESCRIPTION1%=DriverInstall, USB\VID_0D4A&PID_003E
+%DESCRIPTION1%=DriverInstall, USB\VID_2184&PID_003A
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_003F
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0040
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0041
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0042
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0043
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0044
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0045
+%DESCRIPTION2%=DriverInstall, USB\VID_2184&PID_0046
+
+
+;------------------------------------------------------------------------------
+;              String Definitions
+;------------------------------------------------------------------------------
+[Strings]
+
+FILENAME="dso_vpo"
+MANUFACTURER="DSO"
+INSTDISK="USB2UART"
+DESCRIPTION1="DSO"
+DESCRIPTION2="VPO"
+DESCRIPTION3="HHDSO"
+SERVICE="Virtual Com Driver"

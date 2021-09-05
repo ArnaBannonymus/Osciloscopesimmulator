@@ -1,0 +1,4 @@
+E:\WORK\C#\proj osciloscopio\SignalGenerator\bin\Debug\Signals.dll
+E:\WORK\C#\proj osciloscopio\SignalGenerator\bin\Debug\Signals.pdb
+E:\WORK\C#\proj osciloscopio\SignalGenerator\obj\Debug\Signals.dll
+E:\WORK\C#\proj osciloscopio\SignalGenerator\obj\Debug\Signals.pdb

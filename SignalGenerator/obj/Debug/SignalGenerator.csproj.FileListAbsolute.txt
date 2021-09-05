@@ -1,0 +1,5 @@
+E:\WORK\C#\proj osciloscopio\SignalGenerator\bin\Debug\SignalGenerator.dll
+E:\WORK\C#\proj osciloscopio\SignalGenerator\bin\Debug\SignalGenerator.pdb
+E:\WORK\C#\proj osciloscopio\SignalGenerator\obj\Debug\SignalGenerator.dll
+E:\WORK\C#\proj osciloscopio\SignalGenerator\obj\Debug\SignalGenerator.pdb
+E:\WORK\C#\proj osciloscopio\SignalGenerator\obj\Debug\SignalGenerator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,898 @@
+C:\Users\JoaoCostaPereira\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Documents\teste_botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Documents\teste_botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Documents\teste_botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Documents\teste_botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Documents\teste_botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Documents\teste_botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Documents\teste_botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Documents\teste_botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\SpPerfChart.dll
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\projecto osciloscopio\proj osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\SpPerfChart.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\SpPerfChart.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\SpPerfChart.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\bin\Debug\SpPerfChart.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\bin\Debug\SpPerfChart.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_17_05_15\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\SpPerfChart.dll
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\SpPerfChart.pdb
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WORK\C#\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\bin\Debug\SpPerfChart.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\bin\Debug\SpPerfChart.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-4\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\TESTE-1\TESTE\Projecto Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WORK\C#\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\LCDLabel.dll
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\LCDLabel.dll
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Osciloscopio-5\Projecto Osciloscopio-5\Projecto Osciloscopio-5\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_actual\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\Projecto Osciloscopio_3_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WORK\C#\Projecto Osciloscopio_7_6_2015-2\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto-Osciloscopio_13_6_2015\Projecto Osciloscopio_13_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_6_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MyExcelcs.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MyExcelcs.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MyExcelcs.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MyExcelcs.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_07_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MyExcelcs.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MyExcelcs.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MyExcelcs.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_09_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MyExcelcs.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MyExcelcs.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_29_07_2015\Projecto Osciloscopio_20_07_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_6_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Downloads\Projecto Osciloscopio_9_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_11_08_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_12_08_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_7_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_14_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+E:\WORK\C#\joao pereira\Projecto Osciloscopio_14_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto Osciloscopio_20_09_2015 - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form2.resources
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Oscilloscope.resources
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Documents\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Pictures\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_Final\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Documents\Projecto_ultimo\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Projecto_ultima_versao\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\PESTA FINAL\Simulador Osciloscopio Digital\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio Digital_versao_anterior\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

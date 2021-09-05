@@ -1,0 +1,17 @@
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Oscilloscope Simulator.exe.config
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Oscilloscope Simulator.exe
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Oscilloscope Simulator.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\bin\Debug\Signals.pdb
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Oscilloscope Simulator.csprojResolveAssemblyReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Interop.VSTOEE100.dll
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Oscilloscope Simulator.csproj.ResolveComReference.cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\teste_botoes.Form1.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SerialCfgDialog.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\OscilloscopeSimulator.Properties.Resources.resources
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Oscilloscope Simulator.csproj.GenerateResource.Cache
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Oscilloscope Simulator.exe
+C:\Users\JoaoCostaPereira\Desktop\Simulador Osciloscopio - Copy\teste botoes\WindowsFormsApplication1\obj\x86\Debug\Oscilloscope Simulator.pdb
